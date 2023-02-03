@@ -1,1 +1,3 @@
-Dicas git:(https://rockcontent.com/br/talent-blog/github/)
+Melhores dicas para git:
+(https://rockcontent.com/br/talent-blog/github/)
+(https://programathor.com.br/blog/5-dicas-de-github/)
